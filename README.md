@@ -19,9 +19,9 @@ To view the CLI for a file, run `python [FILE] --help`.
 
 - Clean the data and obtain the contextual word embeddings
   - Run main_preprocess.py for the SemEval 2015 and SemEval 2016 datasets, for the training and test phase
-  - Tune the hyperparameters for each task by running main_hyperparam.py for the specific task
-  - Change the hyperparameters and train the model by running main_train.py. Set the patience variable for stopping criterion.
-  - Run main_validate.py to obtain the accuracy. Add ablation when running to do an ablation experiment. 
+- Tune the hyperparameters for each task by running main_hyperparam.py for the specific task
+- Change the hyperparameters and train the model by running main_train.py. Set the patience variable for stopping criterion.
+- Run main_validate.py to obtain the accuracy. Add ablation when running to do an ablation experiment. 
 
 ## References
 Code is used from: 
