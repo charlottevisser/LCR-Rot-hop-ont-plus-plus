@@ -13,6 +13,7 @@ Knowledge Injection from an Ontology in a Neural Network for Aspect-Based Sentim
         - `ABSA15_Restaurants_Train.xml`
         - `ABSA16_Restaurants_Test.xml`
         - `ABSA16_Restaurants_Train.xml`
+        - `ontology.owl`
 
 ## How to use? 
 To view the CLI for a file, run `python [FILE] --help`. 
